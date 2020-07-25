@@ -1,5 +1,7 @@
 # DQS Status
 
+Tired of the quarantine queue? Skip the wait with DQS! https://discord.gg/8mWZqv5
+
 This simple Discord bot indicates what state the DQS service is in.
 
 - **Online (Green)**: Normal, no issues
