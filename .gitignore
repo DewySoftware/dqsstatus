@@ -271,3 +271,5 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
+### Run Dir ###
+run/
