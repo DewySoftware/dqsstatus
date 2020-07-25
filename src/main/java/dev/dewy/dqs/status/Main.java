@@ -3,6 +3,7 @@ package dev.dewy.dqs.status;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.jagrosh.jdautilities.command.CommandClientBuilder;
+import dev.dewy.dqs.status.commands.KillCommand;
 import net.daporkchop.lib.binary.oio.reader.UTF8FileReader;
 import net.daporkchop.lib.common.misc.file.PFiles;
 import net.daporkchop.lib.logging.Logging;
@@ -72,7 +73,7 @@ public class Main
         }
     }
 
-    public static void loadConfig()
+    private static void loadConfig()
     {
         Config config;
 

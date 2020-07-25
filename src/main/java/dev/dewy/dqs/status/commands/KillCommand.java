@@ -1,7 +1,8 @@
-package dev.dewy.dqs.status;
+package dev.dewy.dqs.status.commands;
 
 import com.jagrosh.jdautilities.command.Command;
 import com.jagrosh.jdautilities.command.CommandEvent;
+import dev.dewy.dqs.status.Main;
 import net.dv8tion.jda.api.EmbedBuilder;
 
 import java.awt.*;
