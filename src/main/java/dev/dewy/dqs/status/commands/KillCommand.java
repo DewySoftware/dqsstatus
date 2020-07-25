@@ -7,6 +7,7 @@ import net.dv8tion.jda.api.EmbedBuilder;
 
 import java.awt.*;
 
+@SuppressWarnings("all")
 public class KillCommand extends Command
 {
     public KillCommand()
@@ -36,7 +37,7 @@ public class KillCommand extends Command
             {
                 event.reply(new EmbedBuilder()
                         .setTitle("**DQS Status** - Must Be Executed In DMs")
-                        .setDescription("This command can not be ran in a guild channel.")
+                        .setDescription("This command can not be executed in a guild channel.")
                         .setColor(new Color(15221016))
                         .setAuthor("DQS Status " + Main.VERSION, null, "https://i.imgur.com/pcSOd3K.png")
                         .build());
