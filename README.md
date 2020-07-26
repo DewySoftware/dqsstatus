@@ -1,15 +1,15 @@
 # DQS Status
 
-Tired of the quarantine queue? Skip the wait with DQS! https://discord.gg/8mWZqv5
+[Tired of the quarantine queue? Skip the wait with CTQ by clicking here!](https://discord.gg/pornhub)
 
-This simple Discord bot indicates what state the DQS service is in.
+This simple Discord bot indicates what state the CTQ service is in.
 
 - **Online (Green)**: Normal, no issues
 - **Idle (Orange)**: Planned Outage
 - **Do Not Disturb (Red)**: Unplanned Outage
 - **Invisible**: Something's Up Chief
 
-I decided to open source it cos why tf not ¯\_(ツ)_/¯
+I decided to open source it cos why tf not ¯\\_(ツ)_/¯
 
 ## Usage
 
